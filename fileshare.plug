@@ -1,0 +1,9 @@
+[Core]
+Name = Fileshare
+Module = fileshare
+
+[Python]
+Version = 2+
+
+[Documentation]
+Description = Make a shared folder available to exchange files over chat.
